@@ -4,7 +4,7 @@ Hello, welcome to my portfolio. I'll be using this space a place to show off my 
 
 - [Portfolio](portfolio.md)
 - [Blog](blog.md)
-- [About Me](about.md)
+- [About](about.md)
 
 ## Updates
 
