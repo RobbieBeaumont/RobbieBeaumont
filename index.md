@@ -11,7 +11,7 @@ Hello, welcome to my portfolio. I'll be using this space a place to show off my 
 
 ### First Post
 #####  ``` #General ```
-Hi Everyone, Robbie here. So I thought I’d just make a quick introductory post to my little blog section! As of right now, this place is goi... [See More](firstpost.md)
+Hi Everyone, Robbie here. So I thought I’d just make a quick introductory post to my little blog section! As of right now, this place is goi... [See More](/blogposts/firstpost.md)
 ```
 19:01 22/02/2021 
 ```
