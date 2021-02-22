@@ -6,7 +6,7 @@ As of right now, this place is going to be a bit rough and ready using one of th
 19:01 22/02/2021 
 ```
 
-- [Home](#)
-- [Portfolio](RobbieBeaumont/portfolio.md)
-- [Blog](RobbieBeaumont/blog.md)
-- [About](RobbieBeaumont/about.md)
+- [Home](https://robbiebeaumont.github.io/RobbieBeaumont/)
+- [Portfolio](https://robbiebeaumont.github.io/RobbieBeaumont/portfolio.html)
+- [Blog](https://robbiebeaumont.github.io/RobbieBeaumont/blog.html)
+- [About](https://robbiebeaumont.github.io/RobbieBeaumont/about.html)
