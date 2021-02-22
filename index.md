@@ -1,4 +1,4 @@
-# HOME
+# **HOME**
 
 Hello, welcome to my portfolio. I'll be using this space a place to show off my projects, and creating blog posts about the work I am doing. Here are some links to areas of interest. 
 
