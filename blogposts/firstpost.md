@@ -1,3 +1,8 @@
+- [Home](index.md)
+- [Portfolio](portfolio.md)
+- [Blog](blog.md)
+- [About](about.md)
+
 ### First Post
 #####  ``` #General ```
 Hi Everyone, Robbie here. So I thought I'd just make a quick introductory post to my little blog section!
