@@ -8,6 +8,12 @@ Hello, welcome to my portfolio. I'll be using this space a place to show off my 
 
 ## Updates
 
+### What is the role of a gameplay programmer?
+##### ``` #Research #JobRole ```
+Gameplay programming is the art of coding the interactivity that directly effects the gameplay experience. It connects the player to the wor... [See More](blogposts/gameplayprogrammer.md)
+```
+19:43 24/02/2021
+```
 
 ### First Post
 #####  ``` #General ```
