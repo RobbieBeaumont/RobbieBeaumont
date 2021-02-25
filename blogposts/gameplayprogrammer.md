@@ -6,7 +6,7 @@ and meaningful events.
 ### The Purpose
 
 [Here](https://www.rare.co.uk/careers/gameplay-programmer) is a link to a job listing from Rare ltd, the creators of _Sea of Thieves_ and the upcoming title _Everwild_!
-![Everwild](images/Everwild.jpg)
+![Everwild](https://robbiebeaumont.github.io/RobbieBeaumont/images/Everwild.jpg)
 As they've listed, they describe the purpose of the role to be multi-disciplinary in which they'll work on many aspects of the game such as the end to end user experience, system design, networked gameplay, artificial intelligence and user interfaces. They also outline that their milestones are achieved through fast iteration using development practices such as continuous delivery, automated testing, code reviews, pair programming and agile methods. 
 
 ### Required Skills
