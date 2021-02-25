@@ -22,8 +22,6 @@ Being a gameplay programmer requires a lot of knowledge and experience with codi
 
 Although I am not quite qualified to be able to give advice to aspiring gameplay programmers, I can say that being committed to keeping your mind open and absorbing as much information as possible is incredibly useful to keep yourself motivated, and develop your skills and a programmer. The skills you are developing are incredibly desireable in many industries so don't feel like you're tying yourself down. However, a focused effort on developing is a necessary part of being able to get to that free stage, and it's a fun journey along the way! 
 
-- Robbie
-
 ### Sources
 [1]. Listing for a gameplay programmer at _Rareltd._
 [2]. Gameplay programmer job listing for _Frontier games plc._ 
