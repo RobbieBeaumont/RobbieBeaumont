@@ -11,3 +11,7 @@ As they've listed, they describe the purpose of the role to be multi-disciplinar
 ### Required Skills
 
 There is a high amount of variablity in what skills studios want from their developers depending on the project. It is commonly required to have a good understanding of Computer Science and 1 or more programming languages. 
+
+```
+19:43 24/02/2021
+```
