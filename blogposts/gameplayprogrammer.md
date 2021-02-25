@@ -15,7 +15,7 @@ There is a large variety in what skills and experience studios want from their d
 
 ### Salaries and other Career Paths
 
-UK Talent is a job searching website that also allows for the user to be able to find out salaries of different job titles. When we input _Gameplay Programmer_ into the search bar we [find](https://uk.talent.com/salary?job=game+programmer#:~:text=The%20average%20game%20programmer%20salary%20in%20the%20United%20Kingdom%20is,to%20%C2%A370%2C000%20per%20year.) that based on 650 salaries, the average (median) salary is £50,000 per annum. Which in my opinion is pretty neat! And based on [figures](https://www.findcourses.co.uk/inspiration/average-salaries-uk/average-uk-salary-2020-2021-19759) from the Office for National Statistics, it's ~ 30% above the National average.
+UK Talent is a job searching website that also allows for the user to be able to find out salaries of different job titles. When we input _Gameplay Programmer_ into the search bar we [find](https://uk.talent.com/salary?job=game+programmer#:~:text=The%20average%20game%20programmer%20salary%20in%20the%20United%20Kingdom%20is,to%20%C2%A370%2C000%20per%20year) that based on 650 salaries, the average (median) salary is £50,000 per annum. Which in my opinion is pretty neat! And based on [figures](https://www.findcourses.co.uk/inspiration/average-salaries-uk/average-uk-salary-2020-2021-19759) from the Office for National Statistics, it's ~ 30% above the National average.
 Being a gameplay programmer requires a lot of knowledge and experience with coding, teamworking, and communcation, all of which are highly transferrable and desireable skills especially in the software development industry. Having the understanding of code means that you have the chance to work in almost any sector that needs someone to write code for them, and coming from a game development background you will have that added creativity that comes along with it which is an incredibly valuable asset to employers.
 
 ### Advice
@@ -23,10 +23,10 @@ Being a gameplay programmer requires a lot of knowledge and experience with codi
 Although I am not quite qualified to be able to give advice to aspiring gameplay programmers, I can say that being committed to keeping your mind open and absorbing as much information as possible is incredibly useful to keep yourself motivated, and develop your skills and a programmer. The skills you are developing are incredibly desireable in many industries so don't feel like you're tying yourself down. However, a focused effort on developing is a necessary part of being able to get to that free stage, and it's a fun journey along the way! 
 
 ### Sources
-[1]. Listing for a gameplay programmer at _Rareltd._
-[2]. Gameplay programmer job listing for _Frontier games plc._ 
-[3]. Average salary for gameplay programming jobs in the UK based on UK Talents job listings.
-[4]. Office for National Statistics information in an article from findcourses.co.uk
+[1](https://www.rare.co.uk/careers/gameplay-programmer) Listing for a gameplay programmer at _Rareltd._
+[2](https://uk.indeed.com/viewjob?jk=299408b1808ea8fc&tk=1evaj0vkdstdk801&from=serp&vjs=3) Gameplay programmer job listing for _Frontier games plc._ 
+[3](https://uk.talent.com/salary?job=game+programmer#:~:text=The%20average%20game%20programmer%20salary%20in%20the%20United%20Kingdom%20is,to%20%C2%A370%2C000%20per%20year) Average salary for gameplay programming jobs in the UK based on UK Talents job listings.
+[4](https://www.findcourses.co.uk/inspiration/average-salaries-uk/average-uk-salary-2020-2021-19759) Office for National Statistics information in an article from findcourses.co.uk
 
 ### 
 ```
