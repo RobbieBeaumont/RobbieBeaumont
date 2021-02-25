@@ -15,3 +15,8 @@ There is a high amount of variablity in what skills studios want from their deve
 ```
 19:43 24/02/2021
 ```
+
+- [Home](https://robbiebeaumont.github.io/RobbieBeaumont/)
+- [Portfolio](https://robbiebeaumont.github.io/RobbieBeaumont/portfolio.html)
+- [Blog](https://robbiebeaumont.github.io/RobbieBeaumont/blog.html)
+- [About](https://robbiebeaumont.github.io/RobbieBeaumont/about.html)
