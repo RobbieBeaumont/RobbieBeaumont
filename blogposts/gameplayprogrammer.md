@@ -27,8 +27,6 @@ Although I am not quite qualified to be able to give advice to aspiring gameplay
 [[2](https://uk.indeed.com/viewjob?jk=299408b1808ea8fc&tk=1evaj0vkdstdk801&from=serp&vjs=3)] Gameplay programmer job listing for _Frontier games plc._ 
 [[3](https://uk.talent.com/salary?job=game+programmer#:~:text=The%20average%20game%20programmer%20salary%20in%20the%20United%20Kingdom%20is,to%20%C2%A370%2C000%20per%20year)] Average salary for gameplay programming jobs in the UK based on UK Talents job listings.
 [[4](https://www.findcourses.co.uk/inspiration/average-salaries-uk/average-uk-salary-2020-2021-19759)] Office for National Statistics information in an article from findcourses.co.uk
-
-### 
 ```
 19:43 24/02/2021
 ```
