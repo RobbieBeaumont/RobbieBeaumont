@@ -23,10 +23,10 @@ Being a gameplay programmer requires a lot of knowledge and experience with codi
 Although I am not quite qualified to be able to give advice to aspiring gameplay programmers, I can say that being committed to keeping your mind open and absorbing as much information as possible is incredibly useful to keep yourself motivated, and develop your skills and a programmer. The skills you are developing are incredibly desireable in many industries so don't feel like you're tying yourself down. However, a focused effort on developing is a necessary part of being able to get to that free stage, and it's a fun journey along the way! 
 
 ### Sources
-[1](https://www.rare.co.uk/careers/gameplay-programmer) Listing for a gameplay programmer at _Rareltd._
-[2](https://uk.indeed.com/viewjob?jk=299408b1808ea8fc&tk=1evaj0vkdstdk801&from=serp&vjs=3) Gameplay programmer job listing for _Frontier games plc._ 
-[3](https://uk.talent.com/salary?job=game+programmer#:~:text=The%20average%20game%20programmer%20salary%20in%20the%20United%20Kingdom%20is,to%20%C2%A370%2C000%20per%20year) Average salary for gameplay programming jobs in the UK based on UK Talents job listings.
-[4](https://www.findcourses.co.uk/inspiration/average-salaries-uk/average-uk-salary-2020-2021-19759) Office for National Statistics information in an article from findcourses.co.uk
+[[1](https://www.rare.co.uk/careers/gameplay-programmer)] Listing for a gameplay programmer at _Rareltd._
+[[2](https://uk.indeed.com/viewjob?jk=299408b1808ea8fc&tk=1evaj0vkdstdk801&from=serp&vjs=3)] Gameplay programmer job listing for _Frontier games plc._ 
+[[3](https://uk.talent.com/salary?job=game+programmer#:~:text=The%20average%20game%20programmer%20salary%20in%20the%20United%20Kingdom%20is,to%20%C2%A370%2C000%20per%20year)] Average salary for gameplay programming jobs in the UK based on UK Talents job listings.
+[[4](https://www.findcourses.co.uk/inspiration/average-salaries-uk/average-uk-salary-2020-2021-19759)] Office for National Statistics information in an article from findcourses.co.uk
 
 ### 
 ```
